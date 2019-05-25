@@ -12,4 +12,4 @@ As the script benefits from [Instagram-API](https://github.com/LevPasha/Instagra
 `pip install requests`
 
 ## Acknowledgment
-Thanks [LevPasha](https://github.com/LevPasha) for creating a great repo. For more functionality, visit [Instagram-API-python](https://github.com/LevPasha/Instagram-API-python)
+Thanks [LevPasha](https://github.com/LevPasha) for creating a great repo. For more functionality, visit [Instagram-API-python](https://github.com/LevPasha/Instagram-API-python).
