@@ -1,5 +1,5 @@
 # InstaTraitors
-A python script that helps you reveal users who don't follow you back on instagram.
+A python script that helps you reveal users who don't follow you back on Instagram.
 
 ## Usage
 Simply insert your instagram **username** and **password** into `instaTraitors.py` file and run the script as shown below. Traitor accounts will be listed in python terminal.
